@@ -13,6 +13,7 @@ dns-server = system, 114.114.114.114, 112.124.47.27, 8.8.8.8, 8.8.4.4
 # 未包含广告过滤
 #
 
+#### wx-edit-start
 DOMAIN-SUFFIX,newmobilelife.com,Proxy
 DOMAIN-SUFFIX,cnyes.com,Proxy
 DOMAIN-SUFFIX,tradingview.com,Proxy
@@ -37,6 +38,9 @@ DOMAIN-SUFFIX,trading-logic.com,Proxy
 DOMAIN-SUFFIX,twimg.com,Proxy
 DOMAIN-SUFFIX,trading-logic.com,Proxy
 DOMAIN-SUFFIX,breadth.app,Proxy
+#### wx-edit-eof
+
+
 DOMAIN-SUFFIX,030buy.com,Proxy
 DOMAIN-SUFFIX,0rz.tw,Proxy
 DOMAIN-SUFFIX,1-apple.com.tw,Proxy
